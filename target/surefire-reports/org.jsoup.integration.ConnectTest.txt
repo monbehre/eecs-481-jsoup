@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.jsoup.integration.ConnectTest
+-------------------------------------------------------------------------------
+Tests run: 23, Failures: 0, Errors: 0, Skipped: 5, Time elapsed: 2.175 sec - in org.jsoup.integration.ConnectTest
